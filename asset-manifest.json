@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/amazon-prime-video/static/css/main.c769db4a.css",
-    "main.js": "/amazon-prime-video/static/js/main.5e73fdc2.js",
+    "main.css": "/amazon-prime-video/static/css/main.cc0a05ba.css",
+    "main.js": "/amazon-prime-video/static/js/main.fe53dbc5.js",
     "index.html": "/amazon-prime-video/index.html",
-    "main.c769db4a.css.map": "/amazon-prime-video/static/css/main.c769db4a.css.map",
-    "main.5e73fdc2.js.map": "/amazon-prime-video/static/js/main.5e73fdc2.js.map"
+    "main.cc0a05ba.css.map": "/amazon-prime-video/static/css/main.cc0a05ba.css.map",
+    "main.fe53dbc5.js.map": "/amazon-prime-video/static/js/main.fe53dbc5.js.map"
   },
   "entrypoints": [
-    "static/css/main.c769db4a.css",
-    "static/js/main.5e73fdc2.js"
+    "static/css/main.cc0a05ba.css",
+    "static/js/main.fe53dbc5.js"
   ]
 }
