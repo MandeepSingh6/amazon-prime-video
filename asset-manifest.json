@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/amazon-prime-video/static/css/main.c769db4a.css",
+    "main.js": "/amazon-prime-video/static/js/main.5e73fdc2.js",
+    "index.html": "/amazon-prime-video/index.html",
+    "main.c769db4a.css.map": "/amazon-prime-video/static/css/main.c769db4a.css.map",
+    "main.5e73fdc2.js.map": "/amazon-prime-video/static/js/main.5e73fdc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c769db4a.css",
+    "static/js/main.5e73fdc2.js"
+  ]
+}
