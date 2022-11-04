@@ -19,7 +19,7 @@ const Navbar = () => {
             <SiPrimevideo size={90} className="translate-y-1.5" />
           </li>
           <div className="hidden md:flex items-center justify-between gap-4 text-[.7rem] pl-4">
-            <li>Home</li>
+            <li>HomeChanged</li>
             <li>Store</li>
             <li>Channels</li>
             <li>Categories</li>
