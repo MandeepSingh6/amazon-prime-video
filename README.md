@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+live url (https://mandeepsingh6.github.io/amazon-prime-video/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
